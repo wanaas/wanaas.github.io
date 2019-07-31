@@ -1,2 +1,0 @@
-# wanaas.github.io
-domain
